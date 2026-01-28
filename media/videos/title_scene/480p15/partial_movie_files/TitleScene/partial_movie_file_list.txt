@@ -1,4 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/Users/chris.dare/Documents/SourceCode/ntt-manim/media/videos/title_scene/480p15/partial_movie_files/TitleScene/1185818338_2937061781_223132457.mp4'
-file 'file:/Users/chris.dare/Documents/SourceCode/ntt-manim/media/videos/title_scene/480p15/partial_movie_files/TitleScene/624642324_4247107814_3004430541.mp4'
-file 'file:/Users/chris.dare/Documents/SourceCode/ntt-manim/media/videos/title_scene/480p15/partial_movie_files/TitleScene/624642324_2945373934_1472868919.mp4'
